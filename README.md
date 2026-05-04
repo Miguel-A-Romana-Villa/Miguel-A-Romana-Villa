@@ -33,8 +33,8 @@ Descripción: plataforma que permite a usuarios agendar citas, psicólogos gesti
 Funcionalidades: autenticación de usuarios, sistema de citas, paneles por rol y gestión básica de usuarios
 Tecnologías: React, Node.js, PostgreSQL
 
----
 🔗 Repositorio | Demo
+
 ---
 ## EDUCACION:
 - Soy Henry – Bootcamp Full Stack Web Developer (2026)
