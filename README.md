@@ -5,6 +5,7 @@
 Soy Full Stack Developer enfocado en el desarrollo de aplicaciones web modernas, con un background en gestión y sistemas que me permite entender tanto el lado técnico como el funcionamiento real de las empresas. Me dedico a desarrollar aplicaciones web completas (frontend + backend), construyendo soluciones funcionales, escalables y orientadas a resolver problemas reales, trabajando en proyectos que incluyen autenticación, manejo de datos, integración de APIs y experiencias de usuario optimizadas. Busco seguir creciendo como desarrollador, participar en proyectos reales y formar parte de equipos donde pueda aportar valor tanto desde lo técnico como desde una visión estratégica, con el objetivo de especializarme en desarrollo de software y arquitectura de aplicaciones.
 ---
 ## 🛠️ STACK TECNOLOGICO
+
 Frontend: React, Next.js, TypeScript, Tailwind CSS
 Backend: Node.js, Express, NestJS
 Base de datos: PostgreSQL
