@@ -1,16 +1,47 @@
-## Hi there 👋
+👨‍💻 ¿Quién soy?
 
-<!--
-**Miguel-A-Romana-Villa/Miguel-A-Romana-Villa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Miguel Romaña, Full Stack Developer enfocado en el desarrollo de aplicaciones web modernas.
+Vengo de un background en gestión y sistemas, lo que me permite entender tanto el lado técnico como el funcionamiento real de las empresas.
 
-Here are some ideas to get you started:
+🚀 ¿Qué hago?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo aplicaciones web completas (frontend + backend), construyendo soluciones funcionales, escalables y orientadas a resolver problemas reales.
+
+Trabajo en proyectos que incluyen autenticación, manejo de datos, integración de APIs y experiencias de usuario optimizadas.
+
+🎯 ¿A dónde me dirijo?
+
+Busco crecer como desarrollador Full Stack, participar en proyectos reales y formar parte de equipos donde pueda aportar valor desde lo técnico y lo estratégico.
+
+Mi objetivo es especializarme en desarrollo de software y arquitectura de aplicaciones.
+
+🛠️ Tecnologías
+
+FRONTEND
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+BACKEND
+
+- Node.js
+- Express
+- NestJS
+
+BASE DE DATOS
+
+- PostgreSQL
+
+HERRAMIENTAS:
+
+Git & GitHub
+JWT
+APIs REST
+Cloudinary
+Mercado Pago
+📫 Contacto
+
+📧 Email: miguelromanavilla@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/miguel-rv/
