@@ -4,7 +4,7 @@
 
 ### Frontend Developer con enfoque Full Stack
 
-Construyo aplicaciones web modernas con interfaces claras, autenticación, consumo de APIs, manejo de datos y experiencias pensadas para usuarios reales.
+Desarrollo interfaces web modernas con React, Next.js y TypeScript, integrando APIs, autenticación y flujos de usuario funcionales. También tengo bases de backend con Node.js y PostgreSQL, y estoy fortaleciendo esa área para construir aplicaciones cada vez más completas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguel--rv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-rv/)
 [![Email](https://img.shields.io/badge/Email-miguelromanavilla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelromanavilla@gmail.com)
