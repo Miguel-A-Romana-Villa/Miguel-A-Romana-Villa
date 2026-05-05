@@ -52,7 +52,7 @@ Actualmente trabajo con React, Next.js, TypeScript, Node.js y PostgreSQL, desarr
 
 Plataforma web para gestión de pedidos y seguimiento logístico con múltiples roles de usuario. Permite crear pedidos, consultar envíos, trabajar con paneles por rol e integrar herramientas como mapas, pagos y asistencia para usuarios.
 
-**Rol:** Frontend Developer principal, con participación en integración full stack<br>
+**Rol:** Frontend Developer, con participación en integración full stack<br>
 **Tecnologías:** React, Next.js, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL, JWT<br>
 **Funcionalidades:** autenticación, dashboard por roles, tracking de pedidos, gestión de empresas, reportes, mapas e integración de APIs
 
