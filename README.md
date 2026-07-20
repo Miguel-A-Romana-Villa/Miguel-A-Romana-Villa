@@ -48,6 +48,68 @@ Actualmente trabajo con React, Next.js, TypeScript, Node.js y PostgreSQL, desarr
 
 ## Proyectos destacados
 
+### Estudio Contable Fidencia Villa
+
+Sitio web corporativo desarrollado para el Estudio Contable Fidencia Villa. En su primera fase, el proyecto se enfocó en construir una experiencia visual moderna, clara y adaptable a distintos dispositivos, presentando los servicios, clientes e información de contacto del estudio.
+
+**Rol:** Frontend Developer, en colaboración con un desarrollador senior encargado del backend y del sistema de administración contable<br>
+**Tecnologías:** React, Next.js, TypeScript, Vercel<br>
+**Funcionalidades:** presentación de servicios, sección institucional, cartera de clientes, formulario de contacto y diseño responsive. Próximamente se integrará con la API del sistema contable
+
+<a href="./galeria/estudio-fidenciavilla/fv-home1.png">
+  <img src="./galeria/estudio-fidenciavilla/fv-home1.png" alt="Estudio Contable Fidencia Villa home" width="520" />
+</a>
+
+<details>
+<summary>Ver galería de Estudio Contable Fidencia Villa</summary>
+<br>
+
+| Home | Servicios | Nosotros |
+|------|-----------|----------|
+| <a href="./galeria/estudio-fidenciavilla/fv-home1.png"><img src="./galeria/estudio-fidenciavilla/fv-home1.png" alt="Estudio Contable Fidencia Villa home" width="210" /></a> | <a href="./galeria/estudio-fidenciavilla/fv-servicios.png"><img src="./galeria/estudio-fidenciavilla/fv-servicios.png" alt="Servicios de Fidencia Villa" width="210" /></a> | <a href="./galeria/estudio-fidenciavilla/fv-nosotros.png"><img src="./galeria/estudio-fidenciavilla/fv-nosotros.png" alt="Nosotros de Fidencia Villa" width="210" /></a> |
+
+| Clientes | Contáctanos |
+|----------|-------------|
+| <a href="./galeria/estudio-fidenciavilla/fv-clientes.png"><img src="./galeria/estudio-fidenciavilla/fv-clientes.png" alt="Clientes de Fidencia Villa" width="210" /></a> | <a href="./galeria/estudio-fidenciavilla/fv-contactanos.png"><img src="./galeria/estudio-fidenciavilla/fv-contactanos.png" alt="Contacto de Fidencia Villa" width="210" /></a> |
+
+</details>
+
+**Repositorio:** privado<br>
+**Demo:** https://estudio-contable-fidencia-villa-fro.vercel.app/
+
+---
+
+### Staffy
+
+Aplicación web de recursos humanos orientada a pequeños negocios y MYPES. Centraliza tareas básicas de gestión de personal como el control de asistencias, el registro de empleados, el cálculo de remuneraciones y la generación de documentos y reportes.
+
+**Rol:** Full Stack Developer en un equipo de tres integrantes<br>
+**Tecnologías:** React, Next.js, Tailwind CSS, Python, FastAPI, Supabase, Vercel<br>
+**Funcionalidades:** control de asistencias, registro de empleados, cálculo de sueldos, gestión de bonos y descuentos, emisión de boletas y generación de reportes en PDF
+
+<a href="./galeria/staffy/staffy-asistencias.png">
+  <img src="./galeria/staffy/staffy-asistencias.png" alt="Staffy control de asistencias" width="520" />
+</a>
+
+<details>
+<summary>Ver galería de Staffy</summary>
+<br>
+
+| Asistencias | Dashboard | Empleados | Boletas |
+|-------------|-----------|-----------|---------|
+| <a href="./galeria/staffy/staffy-asistencias.png"><img src="./galeria/staffy/staffy-asistencias.png" alt="Staffy asistencias" width="210" /></a> | <a href="./galeria/staffy/staffy-dashboard.png"><img src="./galeria/staffy/staffy-dashboard.png" alt="Staffy dashboard" width="210" /></a> | <a href="./galeria/staffy/staffy-empleados.png"><img src="./galeria/staffy/staffy-empleados.png" alt="Staffy empleados" width="210" /></a> | <a href="./galeria/staffy/staffy-boletas.png"><img src="./galeria/staffy/staffy-boletas.png" alt="Staffy boletas" width="210" /></a> |
+
+| Bonos y descuentos | Reportes | Inicio de sesión |
+|--------------------|----------|------------------|
+| <a href="./galeria/staffy/staffy-bonos%26descuentos.png"><img src="./galeria/staffy/staffy-bonos%26descuentos.png" alt="Staffy bonos y descuentos" width="210" /></a> | <a href="./galeria/staffy/staffy-reportes.png"><img src="./galeria/staffy/staffy-reportes.png" alt="Staffy reportes" width="210" /></a> | <a href="./galeria/staffy/staffy-login.png"><img src="./galeria/staffy/staffy-login.png" alt="Staffy inicio de sesión" width="210" /></a> |
+
+</details>
+
+**Repositorios:** frontend y backend separados<br>
+**Demo:** https://staffy-frontend.vercel.app/
+
+---
+
 ### Trackifly
 
 Plataforma web para gestión de pedidos y seguimiento logístico con múltiples roles de usuario. Permite crear pedidos, consultar envíos, trabajar con paneles por rol e integrar herramientas como mapas, pagos y asistencia para usuarios.
