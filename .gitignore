@@ -1,0 +1,15 @@
+# Archivos de trabajo locales que no pertenecen al perfil de GitHub
+.agents/
+.codex/
+.codex-pdf-images/
+TF1_extract/
+tf1_tmp/
+tf_tmp/
+
+*.docx
+*.xlsx
+*.zip
+
+Caso_Semana_6_extraido.txt
+bitacora_correcciones_dhcp_wan_vlan.md
+image.png

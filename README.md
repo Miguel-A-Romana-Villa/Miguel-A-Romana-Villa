@@ -48,6 +48,34 @@ Actualmente trabajo con React, Next.js, TypeScript, Node.js y PostgreSQL, desarr
 
 ## Proyectos destacados
 
+### Psicólogo - Freddy Flores Quispe
+
+Sitio web informativo para el psicoterapeuta Freddy Flores Quispe, creado para presentar sus servicios y facilitar el contacto con potenciales pacientes. El proyecto se encuentra en su fase final de desarrollo y propone una experiencia cercana, clara y adaptable a distintos dispositivos.
+
+**Rol:** Frontend Developer y diseño de interfaz<br>
+**Tecnologías:** React, Next.js, TypeScript, Lottie, Vercel<br>
+**Estado:** fase final de desarrollo<br>
+**Aspectos destacados:** primer proyecto en el que implementé un sistema de diseño propio para mantener la coherencia visual en colores, tipografía, componentes y patrones de interacción. Incluye presentación profesional, información sobre terapia online, servicios, contacto mediante WhatsApp, animaciones y diseño responsive
+
+<a href="./galeria/freddy-flores/fred-home.png">
+  <img src="./galeria/freddy-flores/fred-home.png" alt="Página de inicio de Psicólogo - Freddy Flores Quispe" width="520" />
+</a>
+
+<details>
+<summary>Ver galería de Psicólogo - Freddy Flores Quispe</summary>
+<br>
+
+| Inicio | Terapia online | Contacto |
+|--------|----------------|----------|
+| <a href="./galeria/freddy-flores/fred-home.png"><img src="./galeria/freddy-flores/fred-home.png" alt="Inicio de Psicólogo - Freddy Flores Quispe" width="210" /></a> | <a href="./galeria/freddy-flores/fred-terapia.png"><img src="./galeria/freddy-flores/fred-terapia.png" alt="Terapia online de Psicólogo - Freddy Flores Quispe" width="210" /></a> | <a href="./galeria/freddy-flores/fred-contacto.png"><img src="./galeria/freddy-flores/fred-contacto.png" alt="Contacto de Psicólogo - Freddy Flores Quispe" width="210" /></a> |
+
+</details>
+
+**Repositorio:** privado<br>
+**Demo:** https://app-fredy-flores-quispe-front.vercel.app/ (versión en fase final)
+
+---
+
 ### Estudio Contable Fidencia Villa
 
 Sitio web corporativo desarrollado para el Estudio Contable Fidencia Villa. En su primera fase, el proyecto se enfocó en construir una experiencia visual moderna, clara y adaptable a distintos dispositivos, presentando los servicios, clientes e información de contacto del estudio.
@@ -114,7 +142,7 @@ Aplicación web de recursos humanos orientada a pequeños negocios y MYPES. Cent
 
 Plataforma web para gestión de pedidos y seguimiento logístico con múltiples roles de usuario. Permite crear pedidos, consultar envíos, trabajar con paneles por rol e integrar herramientas como mapas, pagos y asistencia para usuarios.
 
-**Rol:** Frontend Developer, con participación en integración full stack<br>
+**Rol:** Frontend Developer principal, con participación en integración full stack<br>
 **Tecnologías:** React, Next.js, TypeScript, Tailwind CSS, Node.js, NestJS, PostgreSQL, JWT<br>
 **Funcionalidades:** autenticación, dashboard por roles, tracking de pedidos, gestión de empresas, reportes, mapas e integración de APIs
 
@@ -166,13 +194,14 @@ E-commerce desarrollado con Next.js, React y TypeScript. Incluye autenticación 
 
 ## Educación
 
+- Universidad Peruana de Ciencias Aplicadas (UPC) - Desde 2024 - Actualidad, modalidad EPE (personas que trabajan)  
 - Soy Henry - Bootcamp Full Stack Web Developer (2026)
 - Google - Soporte de TI: Fundamentos (2025)
 - CERTUS - Especialización en Recursos Humanos (2024)
 
 ---
 
-## Contacto
+## Contacto![alt text](image.png)
 
 - Email: [miguelromanavilla@gmail.com](mailto:miguelromanavilla@gmail.com)
 - LinkedIn: [linkedin.com/in/miguel-rv](https://www.linkedin.com/in/miguel-rv/)
